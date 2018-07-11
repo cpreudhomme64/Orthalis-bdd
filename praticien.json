@@ -1,0 +1,69 @@
+[
+    {
+        "nom_praticien": "Etchebeste",
+        "prenom_praticien": "Sylvain",
+        "photo-praticien": "44",
+        "cabinet":"1",
+        "diplomes":"diplomes/sylvain_etchebeste.txt",
+        "description":"description/sylvain_etchebeste.txt"
+    },
+    
+    {
+        "nom_praticien": "Delasalle.",
+        "prenom_praticien": "Jeanne",
+        "photo-praticien": "45",
+        "cabinet":"2",
+        "diplomes":"diplomes/jeanne_delasalle.txt",
+        "description":"description/jeanne_delasalle.txt"
+    },
+    {
+        "nom_praticien": "Dufau",
+        "prenom_praticien": "Marcel",
+        "photo-praticien": "46",
+        "cabinet":"3",
+        "diplomes":"diplomes/marcel_dufau.txt",
+        "description":"description/marcel_dufau.txt"
+    },
+    {
+        "nom_praticien": "Laffont",
+        "prenom_praticien": "Marie",
+        "photo-praticien": "47",
+        "cabinet":"3",
+        "diplomes":"diplomes/marie_laffont.txt",
+        "description":"description/marie_laffont.txt"
+    },
+    {
+        "nom_praticien": "Forgeron",
+        "prenom_praticien": "Patrick",
+        "photo-praticien": "48",
+        "cabinet":"5",
+        "diplomes":"diplomes/patrick_forgeron.txt",
+        "description":"description/patrick_forgeron.txt"
+    },
+    {
+        "nom_praticien": "Lavielle",
+        "prenom_praticien": "Jean-Marie",
+        "photo-praticien": "49",
+        "cabinet":"6",
+        "diplomes":"diplomes/patrick_forgeron.txt",
+        "description":"description/patrick_forgeron.txt"
+    },
+
+
+    {
+        "nom_praticien": "Mercier",
+        "prenom_praticien": "Sandrine",
+        "photo-praticien": "50",
+        "cabinet":"8",
+        "diplomes":"diplomes/patrick_forgeron.txt",
+        "description":"description/patrick_forgeron.txt"
+    },
+    {
+        "nom_praticien": "Lambert",
+        "prenom_praticien": "Nicolas",
+        "photo-praticien": "51",
+        "cabinet":"8",
+        "diplomes":"diplomes/patrick_forgeron.txt",
+        "description":"description/patrick_forgeron.txt"
+    }
+]

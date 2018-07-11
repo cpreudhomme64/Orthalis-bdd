@@ -1,0 +1,42 @@
+[
+	{
+	  "nom_cabinet":"Cabinet des Pyrénées",
+	  "code_cabinet":"CAB18KF4",
+	  "id_adresse":"1",
+	  "id_contact":"1",
+	  "id_photo_cabinet":"1",
+	  "date_creation_cabinet":"2010-01-10"
+	},
+	{
+	  "nom_cabinet":"Cabinet des cinq cantons",
+	  "code_cabinet":"CABG45F4",
+	  "id_adresse":"2",
+	  "id_contact":"2",
+	  "id_photo_cabinet":"1",
+	  "date_creation_cabinet":"2010-01-10"
+	},
+	{
+	  "nom_cabinet":"Cabinet HenriIV",
+	  "code_cabinet":"CABV78KF4",
+	  "id_adresse":"3",
+	  "id_contact":"3",
+	  "id_photo_cabinet":"1",
+	  "date_creation_cabinet":"2010-01-10"
+	},
+		{
+	  "nom_cabinet":"Cabinet du parlement",
+	  "code_cabinet":"CABS4KF4",
+	  "id_adresse":"4",
+	  "id_contact":"4",
+	  "id_photo_cabinet":"1",
+	  "date_creation_cabinet":"2010-01-10"
+	},
+	{
+	  "nom_cabinet":"Cabinet Tourasse",
+	  "code_cabinet":"CAB145F4",
+	  "id_adresse":"5",
+	  "id_contact":"5",
+	  "id_photo_cabinet":"1",
+	  "date_creation_cabinet":"2010-01-10"
+	}
+]
